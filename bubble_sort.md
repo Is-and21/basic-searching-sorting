@@ -1,3 +1,10 @@
+# Bubble Sort
+
+Bubble sort psuedocode
+
+```
+# Write the psuedocode 
+START
 def bubble_sort(list):
     n = len(list)
     for i in range(n - 1):
@@ -9,3 +16,5 @@ def bubble_sort(list):
         if not swapped:
             break
     return list
+END
+```
